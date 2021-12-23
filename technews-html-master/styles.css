@@ -1,7 +1,7 @@
 /* Global */
 * {
   box-sizing: border-box;
-  margin: 5;
+  margin: 0;
   padding: 0;
 }
 
@@ -100,7 +100,7 @@ hr {
 .showcase {
   width: 100%;
   height: 500px;
-  background: url("img/Portada-spiderman1.jpg") no-repeat center center/cover;
+  background: url("img/Portada-spiderman2.jpg") no-repeat center center/cover;
 
   display: flex;
   flex-direction: column;
