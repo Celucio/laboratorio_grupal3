@@ -8,7 +8,7 @@ var categoria;
     nombre=prompt("Escriba el nombre de la pelicula: ", "Nombre");
     categoria=prompt("Escriba la categoria de la pelicula: ", "Categoria");
     asientos=parseInt(prompt("Escriba el numero de asientos que desea: ", "Asientos"));
-    precio=5;
+    precio=5.50;
     fecha=prompt("Escriba el dia que desea ver la pelicula", "Fecha");
     calidad=prompt("Escriba la calidad de su pelicula", "Calidad");
     
